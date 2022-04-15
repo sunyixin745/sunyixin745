@@ -2,13 +2,6 @@
 
 <h2 align="center">👋 Hey! I'm 中二病.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
-:heart: :icecream: :strawberry: :watermelon: :lemon: :milk_glass: :coffee: :poultry_leg: :fries: :video_game: :computer: :notes: :moneybag:
-
-[![中二病](https://img.shields.io/badge/-Naccl's%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://naccl.top)
-[![Telegram](https://img.shields.io/badge/-t.me/NacclOfficial-17c0eb?style=flat-square&logo=Telegram)](https://t.me/NacclOfficial)
-[![Email](https://img.shields.io/badge/-i@naccl.top-ea4335?style=flat-square&logo=Mail.Ru)](mailto:i@naccl.top)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNaccl%2FNaccl&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
-
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
