@@ -53,7 +53,7 @@
 3.  SpringBoot（重新学:还没学完）(狂神)
     1. API
        1. 老:swagger	(新:OpenApi) (新:SpringDoc)
-    2. 使用POI实现 （重新学:还没学完）(狂神)
+    2. 使用POI实现
        1. EasyExcel
     3. 国际化
        1. i18n
