@@ -71,7 +71,7 @@
 
 非关系型数据库:
 
-1.  Spring Data Redis (把学过的Springboot的项目重写放到gitee上)(狂神)
+1.  Spring Data Redis
     1. redis (数据缓存)
     2. redis-stack
 2.  Spring Data Elasticsearch （未结束: 还在进行中） (尚硅谷)
