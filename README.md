@@ -60,6 +60,7 @@
     4. 安全
        1. Shiro
        2. SpringSecurity
+       3. JWT(没学)
     5. 模板引擎
        1. thymeleaf
     6. 输入输出
