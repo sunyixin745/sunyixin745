@@ -62,6 +62,8 @@
        2. SpringSecurity
     5. 模板引擎
        1. thymeleaf
+    6. 输入输出
+       1. Java Mail Sender
 4.  SpringCloud （重新学:还没学完）(狂神)
 
 非关系型数据库:
