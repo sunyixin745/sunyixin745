@@ -4,7 +4,7 @@
 
 编写工具:
 
-​	Mardown
+1. Mardown
 
 面板:
 
@@ -65,8 +65,8 @@
        1. thymeleaf
     6. 输入输出
        1. Java Mail Sender
-    7.其他
-      1.springframework自带定时任务执行
+    7. 其他
+       1. springframework自带定时任务执行
 4.  SpringCloud （重新学:还没学完）(狂神)
 
 非关系型数据库:
