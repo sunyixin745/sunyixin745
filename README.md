@@ -2,10 +2,6 @@
 
 <h2 align="center">👋 Hey! I'm 中二病.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
-编写工具:
-
-1. Mardown
-
 面板:
 
 1. 宝塔面板
@@ -17,8 +13,9 @@
 
 前端:
 
-1. HTML + CSS + JavaScript
-2. NodeJs
+1. Axure
+2. HTML + CSS + JavaScript
+3. NodeJs
    1. 框架样式
       1. Vite
       2. Vue
@@ -48,13 +45,16 @@
 
 框架:
 
-1.  Tomcat
-2.  SpringMvc
-3.  SpringBoot（重新学:还没学完）(狂神)
+1.  Typora Mardown
+2.  Ngrok
+3.  Tomcat
+4.  SpringMvc
+5.  SpringBoot
     1. API
        1. 老:swagger	(新:OpenApi) (新:SpringDoc)
-    2. 使用POI实现
+    2. Excel 等输出
        1. EasyExcel
+       1. POI
     3. 国际化
        1. i18n
     4. 安全
@@ -67,7 +67,8 @@
        1. Java Mail Sender
     7. 其他
        1. springframework自带定时任务执行
-4.  SpringCloud （重新学:还没学完）(狂神)
+       1. 阿里云短信业务
+6.  SpringCloud （没学)(狂神)
 
 非关系型数据库:
 
@@ -79,8 +80,8 @@
     2. elasticsearch-head : 用于弹性搜索集群的 Web 前端 (Elasticsearch可以进行弹性搜索集群查看自己表中的内容数据)
     3. elasticsearch-analysis-ik : ik 字典 (放到Elasticsearch的插件里面)
     4. jsoup （爬取网站某一个类或者序号的内容并放到自己的页面上进行使用）
-    5. logstash（未用过 学的时候试试）
-    6. cerebro （未用过 学的时候试试）
+    5. logstash（没学）
+    6. cerebro （没学）
 3.  Mongodb(未学：先学后再学完Elasticsearch) (尚硅谷)
 
 关系型数据库: 	JDBC API ：
