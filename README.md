@@ -46,7 +46,7 @@
 框架:
 
 1.  Typora Mardown
-2.  Ngrok
+2.  Ngrok 内网穿透
 3.  Tomcat
 4.  SpringMvc
 5.  SpringBoot
@@ -67,7 +67,7 @@
        1. Java Mail Sender
     7. 其他
        1. springframework自带定时任务执行
-       1. 阿里云短信业务
+       1. 云短信业务
 6.  SpringCloud （没学)(狂神)
 
 非关系型数据库:
