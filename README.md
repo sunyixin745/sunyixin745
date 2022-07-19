@@ -66,7 +66,7 @@
     6. 输入输出
        1. Java Mail Sender
     7. 其他
-       1. springframework自带定时任务执行
+       1. 定时任务
        1. 云短信业务
 6.  SpringCloud （没学)(狂神)
 
