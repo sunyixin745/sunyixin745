@@ -8,8 +8,15 @@
 
 服务器:
 
-1. Centos7
-2. Docker
+1. Git
+2. NVM
+3. Maven
+4. JDK
+5. Centos7
+6. Docker
+   1. portainer（图形界面）
+   2. FAST OS DOCKER（图形界面）
+
 
 前端:
 
@@ -45,11 +52,13 @@
 
 框架:
 
-1.  Typora Mardown
-2.  Ngrok 内网穿透
-3.  Tomcat
-4.  SpringMvc
-5.  SpringBoot
+1.  Tomcat
+2.  Typora Mardown
+3.  Ngrok 内网穿透
+4.  Tomcat
+5.  SpringWeb
+6.  SpringMvc
+7.  SpringBoot
     1. API
        1. 老:swagger	(新:OpenApi) (新:SpringDoc)
     2. Excel 等输出
@@ -68,7 +77,7 @@
     7. 其他
        1. 定时任务
        1. 云短信业务
-6.  SpringCloud （没学)(狂神)
+8.  SpringCloud
 
 非关系型数据库:
 
