@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center">👋 Hey! I'm 中二病.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2 align="center">👋 只要学不死，就往死里学.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
 面板:
 
@@ -53,12 +53,19 @@
 框架:
 
 1.  Tomcat
+
 2.  Typora Mardown
+
 3.  Ngrok 内网穿透
+
 4.  Tomcat
+
 5.  SpringWeb
+
 6.  SpringMvc
+
 7.  SpringBoot
+
     1. API
        1. 老:swagger	(新:OpenApi) (新:SpringDoc)
     2. Excel 等输出
@@ -77,7 +84,27 @@
     7. 其他
        1. 定时任务
        1. 云短信业务
+
 8.  SpringCloud
+
+    1.  Rest(学习环境)
+
+    2.  dubbo
+
+        > C 一致性 A 可用性 P 容错性 一个服务注册中心不可能满足三个特性
+        >
+        > CAP原则
+
+    3.  zookeeper
+
+        > Zookeeper保证的是CP
+
+    4.  Eureka
+
+        > Eureka保证的是AP
+
+    5.  actuator(监控信息)
+
 
 非关系型数据库:
 
